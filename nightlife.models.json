@@ -1,8 +1,7 @@
 {
     "Zermatt Matterhorn":
     {
-        "country": "CH",
-        "insignia": "Louvre",
+        "country": "CH", "insignia": "Louvre",
         "maison": "https://www.zermatt.ch/en/matterhorn",
         "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
         "language":
@@ -16,8 +15,7 @@
     },
     "Sunset in Paris":
     {
-        "country": "FR",
-        "insignia": "EiffelTower",
+        "country": "FR", "insignia": "EiffelTower",
         "memoir": "Paris is a top destination for tourists from all over the world throughout the year. Known as the City of Light, the capital offers exceptional views at any time of the day. Nightfall is a unique moment when the flamboyant colours invite us to dream.",
         "language":
         {
@@ -30,8 +28,7 @@
     },
     "Zentralen Ostalpen":
     {
-        "country": "AT",
-        "insignia": "OrientExpress",
+        "country": "AT", "insignia": "OrientExpress",
         "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
         "language":
         {
@@ -44,8 +41,7 @@
     },
     "Global Seed Vault":
     {
-        "country": "NO",
-        "insignia": "RoyalDutchShell",
+        "country": "NO", "insignia": "RoyalDutchShell",
         "memoir": "The Seed Vault was opened 26 February 2008 in the presence of the Prime Minister of Norway, Jens Stoltenberg, the President of the European Union, José Manuel Barroso, Director-General of the Food and Agriculture Organization (FAO) of the United Nations, Jacques Diouf, and Nobel Peace Prize laureate, Wangari Maathai.",
         "language":
         {
